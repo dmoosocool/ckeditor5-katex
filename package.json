@@ -9,7 +9,7 @@
     "ckeditor5-feature",
     "ckeditor5-plugin",
     "ckeditor5-math",
-	"katex"
+    "katex"
   ],
   "main": "src/index.js",
   "dependencies": {
